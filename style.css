@@ -199,6 +199,29 @@ input[type="button"]:active {
         font-size: 30px;
     }
 
+    .title {
+        top: 40px;
+        display: flex;
+        align-content: center;
+        justify-content: center;
+    }
+
+    .num-buttons {
+        gap: 10px;
+    }
+
+    .operators-buttons {
+        gap: 10px;
+    }
+
+    .display-input {
+        font-size: 30px;
+    }
+
+    .buttons {
+        gap: 20px;
+    }
+
     .buttons input {
         width: 30px;
         height: 20px;
